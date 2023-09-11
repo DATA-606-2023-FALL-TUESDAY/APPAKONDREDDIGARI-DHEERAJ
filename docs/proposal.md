@@ -25,7 +25,6 @@ The New York City Motor Vehicle Collisions Analysis Project aims to provide valu
 - **Each Row Represents:** A motor vehicle collision.
 
 -  **Data Dictionary**
-
 | Column Name                       | Data Type           | Definition                                                  |
 |-----------------------------------|---------------------|-------------------------------------------------------------|
 | crash_date                         | Date and Time       | Date of the collision.                                     |
