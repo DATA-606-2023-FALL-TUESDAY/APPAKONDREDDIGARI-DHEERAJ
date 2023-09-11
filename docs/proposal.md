@@ -3,8 +3,8 @@
 ## 1. Title and Author
 - **Project Title:** New York City Motor Vehicle Collisions Analysis
 - **Prepared for UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang**
-- **Author Name:** [Your Name]
-- **Author's GitHub Profile:** [Link to GitHub Profile]
+- **Author Name:** Dheerajkumar Reddy. Appakondreddigari
+- **Author's GitHub Profile:** [https://github.com/dheeraj1027]
 - **Author's LinkedIn Profile:** [Link to LinkedIn Profile]
 - **Link to PowerPoint Presentation:** [Link to PowerPoint Presentation File]
 - **Link to YouTube Video:** [Link to YouTube Video]
@@ -14,9 +14,9 @@ The New York City Motor Vehicle Collisions Analysis Project aims to provide valu
 
 ## 3. Data
 - **Data Sources:** The dataset is sourced from the New York City Open Data platform.
-- **Data Size:** [Specify the size]
-- **Data Shape:** [Specify the number of rows and columns]
-- **Time Period:** [Specify the time period covered]
+- **Data Size:** []
+- **Data Shape:** [3.7 million rows and 25 columns ]
+- **Time Period:** [April 2016 to December 2021]
 - **Each Row Represents:** A motor vehicle collision.
 - **Data Dictionary:**
   - [List the columns, data types, definitions, and potential values]
