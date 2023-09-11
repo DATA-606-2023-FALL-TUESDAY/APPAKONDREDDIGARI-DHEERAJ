@@ -4,15 +4,15 @@
 - **Project Title:** New York City Motor Vehicle Collisions Analysis
 - **Prepared for UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang**
 - **Author Name:** Dheerajkumar Reddy. Appakondreddigari
-- **Author's GitHub Profile:** [https://github.com/dheeraj1027]
-- **Author's LinkedIn Profile:** [Link to LinkedIn Profile]
-- **Link to PowerPoint Presentation:** [Link to PowerPoint Presentation File]
-- **Link to YouTube Video:** [Link to YouTube Video]
+- **Author's GitHub Profile:** https://github.com/dheeraj1027
+- **Author's LinkedIn Profile:** yet to be done
+- **Link to PowerPoint Presentation:** yet to be done
+- **Link to YouTube Video:** yet to be done
 
 ## 2. Background
 The New York City Motor Vehicle Collisions Analysis Project aims to provide valuable insights into motor vehicle collisions in New York City. This analysis is crucial for enhancing road safety and urban planning. The project seeks to answer questions such as the primary causes of collisions, high-risk areas, collision patterns over time, and the influence of weather and road conditions.
 -The project seeks to address critical questions such as:
-1. What are the primary causes of road accidents in Newyork?
+1. What are the primary causes of road accidents in New York?
 2. Where are the high-risk zones for accidents within the state?
 3. What specific times of day and days of the week witness a higher propensity for accidents?
 4. How do different accident types (e.g., rear-end collisions, head-on collisions, sideswipes) vary in terms of frequency and severity?
@@ -25,6 +25,7 @@ The New York City Motor Vehicle Collisions Analysis Project aims to provide valu
 - **Each Row Represents:** A motor vehicle collision.
 
 -  **Data Dictionary**
+-  
 | Column Name                       | Data Type           | Definition                                                  |
 |-----------------------------------|---------------------|-------------------------------------------------------------|
 | crash_date                         | Date and Time       | Date of the collision.                                     |
