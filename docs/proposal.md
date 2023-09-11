@@ -1,6 +1,6 @@
-# New York City Motor Vehicle Collisions Analysis
+# Capestone Project
 
-## 1. Title and Author
+## 1. New York City Motor Vehicle Collisions Analysis
 - **Project Title:** New York City Motor Vehicle Collisions Analysis
 - **Prepared for UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang**
 - **Author Name:** Dheerajkumar Reddy. Appakondreddigari
