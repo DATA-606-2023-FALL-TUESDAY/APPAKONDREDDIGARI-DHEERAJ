@@ -25,6 +25,7 @@ The New York City Motor Vehicle Collisions Analysis Project aims to provide valu
 - **Each Row Represents:** A motor vehicle collision.
 
 -  **Data Dictionary**
+  
 | Column Name                       | Data Type           | Definition                                                  |
 |-----------------------------------|---------------------|-------------------------------------------------------------|
 | crash_date                         | Date and Time       | Date of the collision.                                     |
@@ -48,12 +49,12 @@ The New York City Motor Vehicle Collisions Analysis Project aims to provide valu
 | number_of_persons_killed           | Integer             | Number of people killed in the collision.                 |
 
   - Potential Values: The potential values for categorical variables such as borough, vehicle_type_code1, contributing_factor_vehicle_1, etc., can vary widely and are determined by the actual data in the dataset. 
-  - Target/Label Variable: [Specify the target variable]
-  - Selected Features/Predictors: [Specify the relevant features]
+  - Target/Label Variable: yet to do
+  - Selected Features/Predictors: yet to do
 
 ## 4. Exploratory Data Analysis (EDA)
 - Conducted data exploration using Jupyter Notebook.
-- Focused on target variable and selected features.
+- Focused on target variables and selected features.
 - Produced summary statistics of key variables.
 - Created visualizations using Plotly Express.
 - Checked for missing values and duplicate rows.
