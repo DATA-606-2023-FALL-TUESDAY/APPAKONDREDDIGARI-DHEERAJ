@@ -11,16 +11,11 @@
 
 ## 2. Background
 The New York City Motor Vehicle Collisions Analysis Project aims to provide valuable insights into motor vehicle collisions in New York City. This analysis is crucial for enhancing road safety and urban planning. The project seeks to answer questions such as the primary causes of collisions, high-risk areas, collision patterns over time, and the influence of weather and road conditions.
-The project seeks to address critical questions such as:
-
-1. What are the primary causes of road accidents in Maryland?
+-The project seeks to address critical questions such as:
+1. What are the primary causes of road accidents in Newyork?
 2. Where are the high-risk zones for accidents within the state?
 3. What specific times of day and days of the week witness a higher propensity for accidents?
 4. How do different accident types (e.g., rear-end collisions, head-on collisions, sideswipes) vary in terms of frequency and severity?
-5. To what extent do weather conditions and road quality influence the frequency and severity of accidents?
-
-
-
 ## 3. Data
 - **Data Sources:** The dataset is sourced from the New York City Open Data platform.
 - **Link:** https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Vehicles/bm4k-52h4
@@ -28,7 +23,8 @@ The project seeks to address critical questions such as:
 - **Data Shape:** [3.7 million rows and 25 columns ]
 - **Time Period:** [April 2016 to December 2021]
 - **Each Row Represents:** A motor vehicle collision.
-- **Data Dictionary:**
+- 
+## 3. Data Diction ary
 | Column Name                       | Data Type           | Definition                                                  |
 |-----------------------------------|---------------------|-------------------------------------------------------------|
 | crash_date                         | Date and Time       | Date of the collision.                                     |
@@ -40,7 +36,7 @@ The project seeks to address critical questions such as:
 | vehicle_type_code_3                | String              | Type of the third vehicle involved.                        |
 | vehicle_type_code_4                | String              | Type of the fourth vehicle involved.                       |
 | vehicle_type_code_5                | String              | Type of the fifth vehicle involved.                        |
-| contributing_factor_vehicle_1      | String              | Primary contributing factor for the collision.             |
+| contributing_factor_vehicle_1      | String              | primary contributing factor for the collision.             |
 | contributing_factor_vehicle_2      | String              | Secondary contributing factor for the collision.           |
 | collision_id                       | Unique Identifier    | Unique identifier for the collision.                       |
 | vehicle_id                         | Unique Identifier    | Unique identifier for each vehicle involved.                |
