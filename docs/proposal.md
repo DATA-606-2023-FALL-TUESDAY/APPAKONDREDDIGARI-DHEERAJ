@@ -23,8 +23,8 @@ The New York City Motor Vehicle Collisions Analysis Project aims to provide valu
 - **Data Shape:** [3.7 million rows and 25 columns ]
 - **Time Period:** [April 2016 to December 2021]
 - **Each Row Represents:** A motor vehicle collision.
-- 
-## 3. Data Diction ary
+
+-  **Data Dictionary**
 | Column Name                       | Data Type           | Definition                                                  |
 |-----------------------------------|---------------------|-------------------------------------------------------------|
 | crash_date                         | Date and Time       | Date of the collision.                                     |
