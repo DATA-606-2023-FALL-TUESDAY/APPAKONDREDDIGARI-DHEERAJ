@@ -20,7 +20,7 @@ This dataset includes historical sales information for 45 establishments spread 
 - **Each Row Represents:** A sales history.
 
 -  **Data Dictionary**
-  |Store  |Date      |Temperature  |Fuel_Price  |MarkDown1  |MarkDown2  |MarkDown3  |MarkDown4  |MarkDown5  |CPI        |Unemployment  |IsHoliday  |
+| Store  |Date      |Temperature  |Fuel_Price  |MarkDown1  |MarkDown2  |MarkDown3  |MarkDown4  |MarkDown5  |CPI        |Unemployment  |IsHoliday  |
 |-----|----------|-----------|----------|---------|---------|---------|---------|---------|-----------|------------|---------|
 |1    |2010-02-05|42.31      |2.572     |NA       |NA       |NA       |NA       |NA       |211.0963582|8.106       |FALSE    |
 |1    |2010-02-12|38.51      |2.548     |NA       |NA       |NA       |NA       |NA       |211.2421698|8.106       |TRUE     |
