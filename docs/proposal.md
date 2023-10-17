@@ -20,29 +20,15 @@ This dataset includes historical sales information for 45 establishments spread 
 - **Each Row Represents:** A sales history.
 
 -  **Data Dictionary**
-  
-| store     | Date| Definition | Temperature  | Fuel_Price|MarkDown1 | MarkDown2 | MarkDown3 | MarkDown4 | markdown5|cpi | unemployment|Isholiday|
-|-----------------------------------|---------------------|-------------------------------------------------------------|
-| crash_date                         | Date and Time       | Date of the collision.                                     |
-| crash_time                         | Date and Time       | Time of the collision.                                     |
-| borough                            | String              | The borough in which the collision occurred (e.g., Manhattan, Brooklyn). |
-| zip_code                           | String              | The ZIP code of the collision location.                    |
-| vehicle_type_code1                 | String              | Type of the first vehicle involved.                        |
-| vehicle_type_code2                 | String              | Type of the second vehicle involved.                       |
-| vehicle_type_code_3                | String              | Type of the third vehicle involved.                        |
-| vehicle_type_code_4                | String              | Type of the fourth vehicle involved.                       |
-| vehicle_type_code_5                | String              | Type of the fifth vehicle involved.                        |
-| contributing_factor_vehicle_1      | String              | primary contributing factor for the collision.             |
-| contributing_factor_vehicle_2      | String              | Secondary contributing factor for the collision.           |
-| collision_id                       | Unique Identifier    | Unique identifier for the collision.                       |
-| vehicle_id                         | Unique Identifier    | Unique identifier for each vehicle involved.                |
-| location                           | Geospatial Data     | Latitude and longitude coordinates of the collision.      |
-| on_street_name                     | String              | Name of the street where the collision occurred.            |
-| cross_street_name                  | String              | Name of the cross street.                                  |
-| off_street_name                    | String              | Name of the nearest off-street location.                   |
-| number_of_persons_injured          | Integer             | Number of people injured in the collision.                |
-| number_of_persons_killed           | Integer             | Number of people killed in the collision.                 |
-
+  |Store|Date      |Temperature|Fuel_Price|MarkDown1|MarkDown2|MarkDown3|MarkDown4|MarkDown5|CPI        |Unemployment|IsHoliday|
+|-----|----------|-----------|----------|---------|---------|---------|---------|---------|-----------|------------|---------|
+|1    |2010-02-05|42.31      |2.572     |NA       |NA       |NA       |NA       |NA       |211.0963582|8.106       |FALSE    |
+|1    |2010-02-12|38.51      |2.548     |NA       |NA       |NA       |NA       |NA       |211.2421698|8.106       |TRUE     |
+|1    |2010-02-19|39.93      |2.514     |NA       |NA       |NA       |NA       |NA       |211.2891429|8.106       |FALSE    |
+|1    |2010-02-26|46.63      |2.561     |NA       |NA       |NA       |NA       |NA       |211.3196429|8.106       |FALSE    |
+|1    |2010-03-05|46.5       |2.625     |NA       |NA       |NA       |NA       |NA       |211.3501429|8.106       |FALSE    |
+|1    |2010-03-12|57.79      |2.667     |NA       |NA       |NA       |NA       |NA       |211.3806429|8.106       |FALSE    |
+|1    |2010-03-19|54.58      |2.72      |NA       |NA       |NA       |NA       |NA       |211.215635 |8.106       |FALSE    |
   - Potential Values: The potential values for categorical variables such as borough, vehicle_type_code1, contributing_factor_vehicle_1, etc., can vary widely and are determined by the actual data in the dataset. 
   - Target/Label Variable: yet to do
   - Selected Features/Predictors: yet to do
