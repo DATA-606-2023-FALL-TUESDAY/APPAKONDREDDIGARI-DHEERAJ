@@ -21,7 +21,7 @@ This dataset includes historical sales information for 45 establishments spread 
 
 -  **Data Dictionary**
   
-| Column Name       | Data Type           | Definition                                                  |
+| store     | Date| Definition | Temperature  | Fuel_Price|MarkDown1 | MarkDown2 | MarkDown3 | MarkDown4 | markdown5|cpi | unemployment|Isholiday|
 |-----------------------------------|---------------------|-------------------------------------------------------------|
 | crash_date                         | Date and Time       | Date of the collision.                                     |
 | crash_time                         | Date and Time       | Time of the collision.                                     |
