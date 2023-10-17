@@ -31,8 +31,8 @@ This dataset includes historical sales information for 45 establishments spread 
 | 1     | 2010-03-12 | 57.79       | 2.667      | NA       | NA       | NA       | NA       | NA       | 211.3806429 | 8.106       | FALSE     |
 | 1     | 2010-03-19 | 54.58       | 2.72       | NA       | NA       | NA       | NA       | NA       | 211.215635  | 8.106       | FALSE     |
 
-  - Potential Values: The potential values for categorical variables such as borough, vehicle_type_code1, contributing_factor_vehicle_1, etc., can vary widely and are determined by the actual data in the dataset. 
-  - Target/Label Variable: yet to do
+  - Potential Values: The potential values for categorical variables such as size, isholiday, etc., can vary widely and are determined by the actual data in the dataset. 
+  - Target/Label Variable: weekly_sales
   - Selected Features/Predictors: yet to do
 
 ## 4. Exploratory Data Analysis (EDA)
