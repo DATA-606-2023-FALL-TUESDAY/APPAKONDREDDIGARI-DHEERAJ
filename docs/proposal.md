@@ -1,7 +1,7 @@
 # Capestone Project
 
-## 1. New York City Motor Vehicle Collisions Analysis
-- **Project Title:** New York City Motor Vehicle Collisions Analysis
+## 1. Walmart Stores Sales Forecasting
+- **Project Title:**  Walmart Stores Sales Forecasting
 - **Prepared for UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang**
 - **Author Name:** Dheerajkumar Reddy. Appakondreddigari
 - **Author's GitHub Profile:** https://github.com/dheeraj1027
@@ -10,15 +10,10 @@
 - **Link to YouTube Video:** yet to be done
 
 ## 2. Background
-The New York City Motor Vehicle Collisions Analysis Project aims to provide valuable insights into motor vehicle collisions in New York City. This analysis is crucial for enhancing road safety and urban planning. The project seeks to answer questions such as the primary causes of collisions, high-risk areas, collision patterns over time, and the influence of weather and road conditions.
--The project seeks to address critical questions such as:
-1. What are the primary causes of road accidents in New York?
-2. Where are the high-risk zones for accidents within the state?
-3. What specific times of day and days of the week witness a higher propensity for accidents?
-4. How do different accident types (e.g., rear-end collisions, head-on collisions, sideswipes) vary in terms of frequency and severity?
+This dataset includes historical sales information for 45 establishments spread across several geographies. The aim is to project the sales for each department in each store, each of which has multiple departments. This can be achieved by using supervised learning algorithms such as linear regression, random forests, and decision trees. This will allow us to use the data to predict future sales and identify the most important features that are influencing sales.
 ## 3. Data
-- **Data Sources:** The dataset is sourced from the New York City Open Data platform.
-- **Link:** https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Vehicles/bm4k-52h4
+- **Data Sources:** The dataset is sourced from the Kaggle platform.
+- **Link:** https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
 - **Data Size:** []
 - **Data Shape:** [3.7 million rows and 25 columns ]
 - **Time Period:** [April 2016 to December 2021]
