@@ -14,10 +14,10 @@ This dataset includes historical sales information for 45 establishments spread 
 ## 3. Data
 - **Data Sources:** The dataset is sourced from the Kaggle platform.
 - **Link:** https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
-- **Data Size:** []
-- **Data Shape:** [3.7 million rows and 25 columns ]
-- **Time Period:** [April 2016 to December 2021]
-- **Each Row Represents:** A motor vehicle collision.
+- **Data Size:** [4mb]
+- **Data Shape:** [421570 rows and 16 columns ]
+- **Time Period:** [February 2010 to December 2013]
+- **Each Row Represents:** A sales history.
 
 -  **Data Dictionary**
   
