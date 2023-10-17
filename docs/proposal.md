@@ -20,15 +20,16 @@ This dataset includes historical sales information for 45 establishments spread 
 - **Each Row Represents:** A sales history.
 
 -  **Data Dictionary**
-| Store  |Date      |Temperature  |Fuel_Price  |MarkDown1  |MarkDown2  |MarkDown3  |MarkDown4  |MarkDown5  |CPI        |Unemployment  |IsHoliday  |
-|-----|----------|-----------|----------|---------|---------|---------|---------|---------|-----------|------------|---------|
-|1    |2010-02-05|42.31      |2.572     |NA       |NA       |NA       |NA       |NA       |211.0963582|8.106       |FALSE    |
-|1    |2010-02-12|38.51      |2.548     |NA       |NA       |NA       |NA       |NA       |211.2421698|8.106       |TRUE     |
-|1    |2010-02-19|39.93      |2.514     |NA       |NA       |NA       |NA       |NA       |211.2891429|8.106       |FALSE    |
-|1    |2010-02-26|46.63      |2.561     |NA       |NA       |NA       |NA       |NA       |211.3196429|8.106       |FALSE    |
-|1    |2010-03-05|46.5       |2.625     |NA       |NA       |NA       |NA       |NA       |211.3501429|8.106       |FALSE    |
-|1    |2010-03-12|57.79      |2.667     |NA       |NA       |NA       |NA       |NA       |211.3806429|8.106       |FALSE    |
-|1    |2010-03-19|54.58      |2.72      |NA       |NA       |NA       |NA       |NA       |211.215635 |8.106       |FALSE    |
+| Store | Date       | Temperature | Fuel_Price | MarkDown1 | MarkDown2 | MarkDown3 | MarkDown4 | MarkDown5 |     CPI     | Unemployment | IsHoliday |
+|-------|------------|-------------|------------|----------|----------|----------|----------|----------|------------|-------------|-----------|
+| 1     | 2010-02-05 | 42.31       | 2.572      | NA       | NA       | NA       | NA       | NA       | 211.0963582 | 8.106       | FALSE     |
+| 1     | 2010-02-12 | 38.51       | 2.548      | NA       | NA       | NA       | NA       | NA       | 211.2421698 | 8.106       | TRUE      |
+| 1     | 2010-02-19 | 39.93       | 2.514      | NA       | NA       | NA       | NA       | NA       | 211.2891429 | 8.106       | FALSE     |
+| 1     | 2010-02-26 | 46.63       | 2.561      | NA       | NA       | NA       | NA       | NA       | 211.3196429 | 8.106       | FALSE     |
+| 1     | 2010-03-05 | 46.5        | 2.625      | NA       | NA       | NA       | NA       | NA       | 211.3501429 | 8.106       | FALSE     |
+| 1     | 2010-03-12 | 57.79       | 2.667      | NA       | NA       | NA       | NA       | NA       | 211.3806429 | 8.106       | FALSE     |
+| 1     | 2010-03-19 | 54.58       | 2.72       | NA       | NA       | NA       | NA       | NA       | 211.215635  | 8.106       | FALSE     |
+
   - Potential Values: The potential values for categorical variables such as borough, vehicle_type_code1, contributing_factor_vehicle_1, etc., can vary widely and are determined by the actual data in the dataset. 
   - Target/Label Variable: yet to do
   - Selected Features/Predictors: yet to do
