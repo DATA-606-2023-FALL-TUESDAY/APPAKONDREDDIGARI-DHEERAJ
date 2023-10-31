@@ -39,7 +39,7 @@ This dataset includes historical sales information for 45 establishments spread 
 - Conducted data exploration using Jupyter Notebook.
 - Focused on target variables and selected features.
 - Produced summary statistics of key variables.
-- Created visualizations using Plotly Express.
+- Created visualizations.
 - Checked for missing values and duplicate rows.
 - Investigated the need for data splitting, merging, or augmentation.
 - Explored the possibility of integrating other data sources.
