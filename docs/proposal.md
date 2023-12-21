@@ -5,9 +5,9 @@
 - **Prepared for UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang**
 - **Author Name:** Dheerajkumar Reddy. Appakondreddigari
 - **Author's GitHub Profile:** https://github.com/dheeraj1027
-- **Author's LinkedIn Profile:** yet to be done
-- **Link to PowerPoint Presentation:** yet to be done
-- **Link to YouTube Video:** yet to be done
+- **Author's LinkedIn Profile:** https://www.linkedin.com/in/dheerajkumar-reddy-appakondreddigari-0182b2166/
+- **Link to PowerPoint Presentation:** https://1drv.ms/p/s!AtllCB4q5RNGnxsqrWoLJQHqTyFu?e=7ya5Os
+- **Link to YouTube Video:** 
 
 ## 2. Background
 Walmart is one of the largest retailers in the world, and its sales figures are a key indicator of
