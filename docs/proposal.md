@@ -10,7 +10,7 @@
 - **Link to YouTube Video:** 
 
 ## 2. Background
-Walmart is one of the largest retailers in the world, and its sales figures are a key indicator of
+- Walmart is one of the largest retailers in the world, and its sales figures are a key indicator of
 the health of the retail industry. 
 - As such, forecasting Walmart's sales accurately is a crucial task that can help the company make informed business decisions and optimize its sales strategies
 - Walmart's sales are affected by a wide range of factors, including store location, store type, department, holiday, temperature, and marketing promotions.
