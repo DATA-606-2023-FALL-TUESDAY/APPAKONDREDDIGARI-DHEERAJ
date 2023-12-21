@@ -12,16 +12,16 @@
 ## 2. Background
 Walmart is one of the largest retailers in the world, and its sales figures are a key indicator of
 the health of the retail industry. 
-  As such, forecasting Walmart's sales accurately is a crucial task that can help the company make informed business decisions and optimize its sales strategies
-  Walmart's sales are affected by a wide range of factors, including store location, store type, department, holiday, temperature, and marketing promotions.
-  To achieve this goal, this project will use the Walmart Store Sales Forecasting dataset from Kaggle and build a predictive model that can accurately forecast store sales. 
-  This project can help Walmart identify the factors that affect store sales and potential opportunities to improve sales. 
-  Using the mean absolute error metric to evaluate the accuracy of the sales forecasting model will allow us to determine how well the model performs in predicting actual sales.
-  With an accurate sales forecasting model, Walmart can make more informed decisions about inventory management, staffing, and pricing. Ultimately, this can lead to improved sales and a stronger bottom line for the company.
-  The Walmart Store Sales Forecasting dataset contains weekly sales data for 45 Walmart stores located in different regions across the United States. 
-  The dataset includes data from 2010-02-05 to 2012-11-01. 
-  There are- a total of 421570 observations in the dataset. 
-  Each observation represents the sales for a specific department in a specific store for a specific week
+- As such, forecasting Walmart's sales accurately is a crucial task that can help the company make informed business decisions and optimize its sales strategies
+- Walmart's sales are affected by a wide range of factors, including store location, store type, department, holiday, temperature, and marketing promotions.
+- To achieve this goal, this project will use the Walmart Store Sales Forecasting dataset from Kaggle and build a predictive model that can accurately forecast store sales. 
+- This project can help Walmart identify the factors that affect store sales and potential opportunities to improve sales. 
+- Using the mean absolute error metric to evaluate the accuracy of the sales forecasting model will allow us to determine how well the model performs in predicting actual sales.
+- With an accurate sales forecasting model, Walmart can make more informed decisions about inventory management, staffing, and pricing. Ultimately, this can lead to improved sales and a stronger bottom line for the company.
+- The Walmart Store Sales Forecasting dataset contains weekly sales data for 45 Walmart stores located in different regions across the United States. 
+- The dataset includes data from 2010-02-05 to 2012-11-01. 
+- There are- a total of 421570 observations in the dataset. 
+- Each observation represents the sales for a specific department in a specific store for a specific week
 
 ## 3. Data
 - **Data Sources:** The dataset is sourced from the Kaggle platform. it has 3 data sets in it
@@ -144,8 +144,7 @@ the health of the retail industry.
 
 
 ## 6. Application of the Trained Models
-- Developed a web app for model interaction.
-- Potential web app development tools: Streamlit, Dash, Flask.
+- With an accurate sales forecasting model, Walmart can make more informed decisions about inventory management, staffing, and pricing. Ultimately, this can lead to improved sales and a stronger bottom line for the company
 
 ## 7. Conclusion
 - In Conclusion, this study has evaluated the performance of a variety of supervised machine learning models, including linear regression, decision tree regression, random forest regression, and XGBoost models, on a dataset consisting of 45 stores. 
