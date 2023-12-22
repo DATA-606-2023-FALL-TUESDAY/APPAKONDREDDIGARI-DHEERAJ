@@ -99,7 +99,7 @@ the health of the retail industry.
     ![image](https://github.com/DATA-606-2023-FALL-TUESDAY/APPAKONDREDDIGARI-DHEERAJ/assets/113311883/7b221708-1598-4889-98ad-391d7d307903)
 
 
-  We chose Auto-ARIMA over ARIMA because it is difficult and time-consuming to find the ideal values for the number of Auto Regressors (p), number of Moving Averages (q), and Integrated (difference, d) in an ARIMA model. 
+- we chose Auto-ARIMA over ARIMA because it is difficult and time-consuming to find the ideal values for the number of Auto Regressors (p), number of Moving Averages (q), and Integrated (difference, d) in an ARIMA model. 
   
 
 
