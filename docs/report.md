@@ -7,7 +7,7 @@
 - **Author's GitHub Profile:** https://github.com/dheeraj1027
 - **Author's LinkedIn Profile:** https://www.linkedin.com/in/dheerajkumar-reddy-appakondreddigari-0182b2166/
 - **Link to PowerPoint Presentation:** https://1drv.ms/p/s!AtllCB4q5RNGnxsqrWoLJQHqTyFu?e=7ya5Os
-- **Link to YouTube Video:** 
+- **Link to YouTube Video:**  https://youtu.be/Yf4jRiaetp8 
 
 ## 2. Background
 - Walmart is one of the largest retailers in the world, and its sales figures are a key indicator of
